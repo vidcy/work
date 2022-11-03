@@ -1,0 +1,42 @@
+Cómo activar Windows Server 2019 sin clave de producto gratis 2021 (180 días)
+Puedes leer estos artículos para saber:
+
+Paso 1: Selecciona la clave correcta para la edición de Windows Server 2019 que utiliza.
+Aquí está la lista de claves KMS de Windows Server 2019:
+
+Windows Server 2019 Datacenter: WMDGN-G9PQG-XVVXX-R3X43-63DFG
+Windows Server 2019 Standard: N69G4-B89J2-4G8F4-WWYCC-J464C
+Windows Server 2019 Essentials: WVDHN-86M7X-466P6-VHXV7-YY726
+Paso 2: Haces clic derecho en el botón de inicio y abres Command Prompt (Ejecutar como administrador)
+
+Paso 3: Usas el comando slmgr.vbs /ipk yourlicensekey para instalar una clave de licencia (su clave de licencia es la clave de activación que obtuvo en el paso 1).
+
+
+Por ejemplo, mi Windows Server 2019 es Windows Server 2019 Standard. Así que escribo:
+slmgr.vbs /ipk N69G4-B89J2-4G8F4-WWYCC-J464C
+
+Windows-10-pro-kms-clave
+(*Note*: tienes que golpear [Enter] tecla para ejecutar comandos.)
+
+Instalar la clave KMS de Windows Server 2019
+
+Etapa 4: Usas el comando slmgr.vbs /skms s8.uk.to para conectarme a mi servidor KMS.
+
+kms-servidor-windows-10
+kms8.msguides.com
+Paso 6: El último paso es activar tu Windows usas el comando slmgr.vbs /ato.
+
+ato-windows-10
+Activar-Windows-10-Pro-gratis-sin-clave-de-producto
+Vuelve a comprobar el estado de activación.
+
+Hecho.
+
+Con este método, puede activar tanto Windows Server 2019 de 32 bits como de 64 bits en un plazo de 180 días.
+
+Puedes ver este video para saber cómo activar Windows Server 2019 sin clave de producto
+https://www.youtube.com/watch?v=6PlJE6Wdr44
+
+Etiqueta: clave de producto de Windows Server 2019 gratis 2021, clave de producto genérica de Windows Server 2019
+
+Read more:
